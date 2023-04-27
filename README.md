@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamidhaami
-- 👀 I’m interested in ... web 3 projects, Dapps
-- 🌱 I’m currently learning ... data scientist,
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... web 3 projects, coin research, dapps developing, 
+- 🌱 I’m currently learning ...  data scientist, 
+- 💞️ I’m looking to collaborate on ... blockchain projects,
 - 📫 How to reach me ... 
 
 <!---
